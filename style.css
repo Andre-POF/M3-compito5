@@ -1,0 +1,70 @@
+
+#navbarScrollingDropdown{
+    color: black !important;
+}
+
+#bell {
+    color: grey;
+}
+
+div.bell-bg {
+    background-color: #F5F4F8 !important;
+    width: 40px;
+    height: 40px;
+}
+
+img.loginPicture {
+    width: 40px;
+}
+
+.violet-bg {
+    background-color: #7550FE;
+}
+
+div.jumbotron-content h1 {
+    font-weight: bolder;
+}
+
+div.jumbotron-content p {
+    color:#BCA8FF;
+}
+
+div.jumbotron-content .btn1 {
+    background-color: #1ACB98;
+    width:160px;
+    height: 50px;
+    font-size:medium ;
+    font-weight: 600;
+    border: none;
+}
+
+div.jumbotron-content .btn2 {
+    width:180px;
+    height: 50px;
+    font-size: medium;
+    font-weight: 600;
+    border: none;
+}
+
+.camera-bg{
+    background-color: #FFEEDA;
+}
+
+i#video{
+    color: #C28135;
+}
+
+i#users{
+    color: #C28135;
+}
+
+i#clock{
+    color: #C28135;
+}
+
+#topic {
+    font-weight: bold;
+}
+
+
+
